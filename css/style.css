@@ -1,0 +1,43 @@
+/* font-family: 'Fuzzy Bubbles', cursive; */
+/* font-family: 'Bebas Neue', cursive; */
+/* font-family: "DejaVu Sans Bold", sans-serif; */
+/* font-family: "KA_KOLHETI", sans-serif; */
+
+.inline-block{
+    display:inline-block;
+}
+.logo-img{
+    width: 100px;
+    height: 30px;
+    margin: 31px 50px 50px 31px;
+    vertical-align: middle;
+}
+.nav-a{
+    font-size: 22px;
+    color: #3D58A6;
+    font-family: "KA_KOLHETI", sans-serif;
+    font-style: normal;
+    vertical-align: middle;
+    margin-left: 30px;
+    margin-bottom: 77px;
+}
+.active{
+    color:#EE4036;
+}
+.banner{
+    width: 1170px;
+    height: 460px;
+    margin: 0 99px 116px 117px;
+}
+/* .onebox{
+
+} */
+.box-title{
+    font-size: 24px;
+    font-family: 'Fuzzy Bubbles';
+    color:black;
+    text-transform: uppercase;
+    margin-bottom: 37px;
+}
+
+
