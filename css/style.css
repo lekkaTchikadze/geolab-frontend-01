@@ -27,17 +27,61 @@
 .banner{
     width: 1170px;
     height: 460px;
-    margin: 0 99px 116px 117px;
+    margin: 0 99px 125px 117px;
 }
-/* .onebox{
-
-} */
-.box-title{
+ .oneblock{ 
+    width: 1170px;
+    margin: 0 auto;
+} 
+.block-title{
     font-size: 24px;
     font-family: 'Fuzzy Bubbles';
     color:black;
     text-transform: uppercase;
     margin-bottom: 37px;
+    
+}
+.left-block , .right-block {
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    vertical-align: middle;
+    padding: 20px 30px 40px ;
+    margin-bottom: 70px;
+}
+.left-block{
+    margin-right: 26px;
+}
+.left-block-title , .right-block-title {
+    margin-bottom: 13px;
+    font-size: 22px;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+    color: #3D58A6;
+}
+.icon1 , .icon2{
+    vertical-align: middle;
+    margin-right: 40px;
+}
+.left-block-p, .right-block-p {
+    width: 355px;
+    font-size: 20px;
+    color:#333333;
+    font-family: 'Bebas Neue', cursive;
+    vertical-align: middle;
+    line-height: 24px;
+    
+}
+.icon-fb{
+    width: 14px;
+    height: 30px;
+    margin: 0 40px 0 100px;
+}
+.line{
+    background-color: #363E97;
+    height: 27px;
+    width: 2px;
+    margin-right:40px ;
 }
 
 
